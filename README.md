@@ -33,12 +33,12 @@ Strikethrough uses two tildes.~~Scratch this~~.
 
 - - -
 1.First ordered list item
-2.Another item
+1.Another item
 -Unordered sub-list.
-3.Actual numbers don't matter, just that it's a numbe
+1.Actual numbers don't matter, just that it's a numbe
 - i.Ordered sub-list
 - ii.2nd
-4.And another item.
+1.And another item.
 - note 1
 - note 2
 - note 3
