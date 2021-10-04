@@ -34,14 +34,14 @@ Strikethrough uses two tildes.~~Scratch this~~.
 - - -
 1. First ordered list item
 2. Another item
- - Unordered sub-list.
+ ..* Unordered sub-list.
 3. Actual numbers don't matter, just that it's a numbe
-- i.Ordered sub-list
-- ii.2nd
-1.And another item.
-- note 1
-- note 2
-- note 3
+.. i.Ordered sub-list
+... ii.2nd
+4.And another item.
+...* note 1
+...* note 2
+*** note 3
 
 - - -
 - [ ] todo list
@@ -72,6 +72,6 @@ The outer pipes (|) are optional, and you don't need to make the
 raw Markdown line up prettily. You can also use inline Markdown.
 |  Markdown   | Less  | Pretty |
 |  ----  | ----  | ----  |
-|Still | renders	 |nicely|
+|Still | renders	 |**nicely**|
 |1  | 2|3|
 
